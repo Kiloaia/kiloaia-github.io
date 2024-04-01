@@ -1,0 +1,23 @@
+<html style="background-color:gray">
+<head>
+<title>Luminex Site - Logs</title>
+  <link rel="icon" type="image/png" href="LuminexLogoSimple.png">
+</head>
+  
+<body>
+  <center>
+<img src="LuminexLogo.png" alt="LuminexLogo.png" width="900" height="400">
+    <h1>Logs</h1>
+    <div>LOG 5/17/14</div>
+    <br>
+        <div>Transferring is in process.</div>
+    </center>
+  <left>
+  <table style="max-width:400px;background-color:lightgray;">
+            <tbody><tr><td>
+        <font i<font="" id="list" size="4" color="white"><p></p><a href="index.html">Main Page</a><br>Logs</font>
+        </td></tr>
+        </tbody></table>
+</left>
+</body>
+</html>
